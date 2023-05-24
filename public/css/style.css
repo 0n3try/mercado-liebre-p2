@@ -179,6 +179,7 @@ footer {
 footer section {
     text-align: center;
     color: #666;
+    padding: 10px;
 }
 
 
@@ -391,6 +392,8 @@ form div {
         display: flex;
         justify-content: space-around;
     }
+
+
 
 
 
